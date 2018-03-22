@@ -1,0 +1,7 @@
+c:\users\vincenzo\source\repos\testReference\testReference\bin\Debug\testReference.exe.config
+c:\users\vincenzo\source\repos\testReference\testReference\bin\Debug\testReference.exe
+c:\users\vincenzo\source\repos\testReference\testReference\bin\Debug\testReference.pdb
+c:\users\vincenzo\source\repos\testReference\testReference\obj\Debug\testReference.csprojResolveAssemblyReference.cache
+c:\users\vincenzo\source\repos\testReference\testReference\obj\Debug\testReference.csproj.CoreCompileInputs.cache
+c:\users\vincenzo\source\repos\testReference\testReference\obj\Debug\testReference.exe
+c:\users\vincenzo\source\repos\testReference\testReference\obj\Debug\testReference.pdb
