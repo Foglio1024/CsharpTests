@@ -1,0 +1,7 @@
+C:\Users\Vincenzo\source\repos\testReference\ThreadSynchronizationTest\bin\Debug\ThreadSynchronizationTest.exe.config
+C:\Users\Vincenzo\source\repos\testReference\ThreadSynchronizationTest\bin\Debug\ThreadSynchronizationTest.exe
+C:\Users\Vincenzo\source\repos\testReference\ThreadSynchronizationTest\bin\Debug\ThreadSynchronizationTest.pdb
+C:\Users\Vincenzo\source\repos\testReference\ThreadSynchronizationTest\obj\Debug\ThreadSynchronizationTest.csproj.CoreCompileInputs.cache
+C:\Users\Vincenzo\source\repos\testReference\ThreadSynchronizationTest\obj\Debug\ThreadSynchronizationTest.exe
+C:\Users\Vincenzo\source\repos\testReference\ThreadSynchronizationTest\obj\Debug\ThreadSynchronizationTest.pdb
+C:\Users\Vincenzo\source\repos\testReference\ThreadSynchronizationTest\obj\Debug\ThreadSynchronizationTest.csprojResolveAssemblyReference.cache
